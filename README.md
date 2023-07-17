@@ -1,6 +1,6 @@
+![Junior full-stack developer ](https://i.ibb.co/8b53c0s/1.jpg)
 ### Hi there 👋, I'm Rathin Barai(Rahul)
 #### Junior full-stack developer 
-![Junior full-stack developer ](https://i.ibb.co/8b53c0s/1.jpg)
 
 I am a highly motivated and skilled fresher web developer with a passion for building innovative and user-friendly web applications. With a solid foundation in modern web technologies, including HTML, CSS, Tailwind, Bootstrap, JavaScript, React, Node.js, Express.js, Firebase, MongoDB, and Stripe, I have successfully completed four full-stack projects during my learning journey.
 
