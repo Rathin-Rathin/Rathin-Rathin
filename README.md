@@ -7,9 +7,13 @@ I am a highly motivated and skilled fresher web developer with a passion for bui
 Skills: MongoDb/Node Js/Express Js/React Js/ Stripe Js/JavaScript/Tailwind/Bootstrap/CSS/Html
 
 👨‍💻 🔭 I’m currently working on Pharmacy project  
+<br/>
 🌱 I’m currently learning Next Js 
+<br/>
  👯 I’m looking to collaborate on GitHub 
+ <br/>
 💬 Ask me about Web-development 
+<br/>
  📫 How to reach me: rathinbaraiRB637@gmail.com 
 
 
