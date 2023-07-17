@@ -6,11 +6,11 @@ I am a highly motivated and skilled fresher web developer with a passion for bui
 
 Skills: MongoDb/Node Js/Express Js/React Js/ Stripe Js/JavaScript/Tailwind/Bootstrap/CSS/Html
 
-- 🔭 I’m currently working on Pharmacy project  
-- 🌱 I’m currently learning Next Js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web-development 
-- 📫 How to reach me: rathinbaraiRB637@gmail.com 
+👨‍💻 🔭 I’m currently working on Pharmacy project  
+🌱 I’m currently learning Next Js 
+ 👯 I’m looking to collaborate on GitHub 
+💬 Ask me about Web-development 
+ 📫 How to reach me: rathinbaraiRB637@gmail.com 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rathin7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rathin-barai-rahul-portfolio.netlify.app/)  
